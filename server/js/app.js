@@ -1330,7 +1330,7 @@ let createCuriculum = (e) => {
 let display = () => {
 
 
-    courseName.innerHTML = 'Startap Məktəbi Tədris Planı';
+    courseName.innerHTML = 'Startap Akademiyası Tədris Planı';
     courseName.nextElementSibling.innerHTML = 'Bu, ən populyar tədris proqramımızın seçimidir.';
     sectionContent.innerHTML = teachers.map(el => `
     <div class="teacher-card">
@@ -1398,7 +1398,7 @@ let createUsersPageAboutUs = (e) => {
 
     e.classList.add('active');
     e.previousElementSibling.classList.remove('active');
-    courseName.innerHTML = 'Startap School, öz startuplarını fəal şəkildə həyata keçirən qurucular üçün pulsuz bir onlayn proqramdır.';
+    courseName.innerHTML = 'Startap Akademiyası, öz startuplarını fəal şəkildə həyata keçirən qurucular üçün pulsuz bir onlayn proqramdır.';
     courseName.nextElementSibling.innerHTML = '';
 
     sectionContent.innerHTML = `
