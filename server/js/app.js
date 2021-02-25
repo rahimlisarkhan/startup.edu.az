@@ -193,8 +193,8 @@ let teachers = [{
         fullname: 'Kevin Hale',
         video: 'https://www.youtube.com/embed/DOtCl5PU8F0',
         images: './server/img/2.png',
-        title: 'Startap İdeyaları necə dəyərləndirək?',
-        desc: 'Bu dərsdə YC-dən Kevin Hale, fikirlərinizi necə cəmləyib və bir investora necə çatdıracağınızı araşdırır. Fikirlərinizi dəqiq və qısa şəkildə izləyicilərin diqqətini necə cəlb edəbilməniz barədə tövsiyələrini bölüşür.',
+        title: 'Startap İdeyalarını necə dəyərləndirək?',
+        desc: 'Deməli, bu, startap ideyalarının necə qiymətləndirməsi ilə bağlıdır. Və bu əslində son startap məktəbindən gördüyümüz bir çox rəy əsasında inkişaf etdirdiyimiz yeni bir kontentdir və gördüyümüz şey isə  bir çox insanların üzləşdiyi çətinliklərdir.',
         transcript: `
         <br>
         Deməli, bu, startap ideyalarının necə qiymətləndirməsi ilə bağlıdır. Və bu əslində son startap məktəbindən gördüyümüz bir çox rəy əsasında inkişaf etdirdiyimiz yeni bir kontentdir və gördüyümüz şey isə  bir çox insanların üzləşdiyi çətinliklərdir. Beləliklə, keçən ilki tədris proqramında həqiqətən startap məktəbinə qatılanların məlumatına baxdığımızda sonlanmış bir çox kontent var idi, bu çox daha inkişaf etmiş, daha da irəliləmişdir.  <br>  <br>
@@ -389,7 +389,7 @@ let teachers = [{
         fullname: 'Kevin Hale',
         video: 'https://www.youtube.com/embed/17XZGUX_9iM',
         images: './server/img/4.png',
-        title: 'Startıpınızı necə təqdim olunmalıdır?',
+        title: 'Startapınızı necə təqdim olunmalıdır?',
         desc: 'Bu dərsdə YC-dən Kevin Hale, fikirlərinizi necə cəmləyib və bir investora necə çatdıracağınızı araşdırır. Fikirlərinizi dəqiq və qısa şəkildə izləyicilərin diqqətini necə cəlb edəbilməniz barədə tövsiyələrini bölüşür.',
         transcript: `
         <br>  <br>
@@ -1034,7 +1034,7 @@ Nə edə bilərik, əgər biz üç nömrəlini ediriksə və bir nömrə ilə ba
         video: null,
         images: './server/img/12.png',
         title: 'YC-nin əsas startap  məsləhətləri',
-        desc: 'Görünür ki, bir çox təsisçi istədiyi məhsulu yaratmaq üçün güclü texniki biliklərə sahib olmadığından və texniki həmtəsisçi tapa bilmədiyinə görə startapını başlada bilmir. Buna görə də, öz məsləhətlərimizi təklif etmək istəyirik. ',
+        desc: 'Birincisi, kifayət qədər texniki bilikləriniz varmı? Qurmaq istədiyiniz məhsul bundan çox asılıdır. Əgər xərçəngə qarşı dərman yaratmağa çalışırsızsa, biologiya sahəsində kifayət qədər bilikli olmalısız; amma iPhone üçün bir proqram hazırlamağa çalışırsızsa, ilk versiyanı yaratmaq üçün çox da dərin texniki biliklərə sahib olmaq məcburi deyil.  ',
         transcript: `
         <br>  <br>
         Birincisi, kifayət qədər texniki bilikləriniz varmı? Qurmaq istədiyiniz məhsul bundan çox asılıdır. Əgər xərçəngə qarşı dərman yaratmağa çalışırsızsa, biologiya sahəsində kifayət qədər bilikli olmalısız; amma iPhone üçün bir proqram hazırlamağa çalışırsızsa, ilk versiyanı yaratmaq üçün çox da dərin texniki biliklərə sahib olmaq məcburi deyil. 
@@ -1054,7 +1054,7 @@ Nə edə bilərik, əgər biz üç nömrəlini ediriksə və bir nömrə ilə ba
         video: null,
         images: './server/img/13.png',
         title: 'Texniki həmtəsisçi',
-        desc: 'Startaplara verdiyimiz məsləhətlərin çoxu taktikidir; gündəlik və ya həftəlik fəaliyyət üçün nəzərdə tutulub. Lakin, bəzi məsləhətlər daha fundamentaldır.',
+        desc: 'Burada topladığımız məsləhətlər YC komandası tərəfindən startaplar üçün daha vacib və daha dəyişdirici kimi dəyərləndirilir. Sağlam düşüncə və ya intuisiyaya zidd səslənməsinə baxmayaraq, aşağıda verilmiş məsləhətlər bir çox startapa öz uğur yolunu tapmağa kömək edəcək.',
         transcript: `
         <br>
 	Burada topladığımız məsləhətlər YC komandası tərəfindən startaplar üçün daha vacib və daha dəyişdirici kimi dəyərləndirilir. Sağlam düşüncə və ya intuisiyaya zidd səslənməsinə baxmayaraq, aşağıda verilmiş məsləhətlər bir çox startapa öz uğur yolunu tapmağa kömək edəcək. 
